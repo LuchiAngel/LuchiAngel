@@ -21,7 +21,7 @@ Testing & APIs: Playwright, Jest, JUnit, Postman, K6, Bruno
 
 👨‍💻 Lenguajes
 
-<img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/7f464443-1679-41e3-ba6b-d4fbe0992a46" /><img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/dfbb3885-acb3-48c3-972c-f20e114d86f0" /><img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/f7bbabb0-ff7b-4335-9717-9e70de9452a4" /><img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/f36b7a9d-10dd-47a3-990d-40048ead8a8e" /><img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/ba8bc867-94e9-4073-8ead-6ddfaa264d39" /><img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/2ca679a5-5a14-45a6-ac2e-059c4738bbdb" />
+<img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/7f464443-1679-41e3-ba6b-d4fbe0992a46" /> <img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/dfbb3885-acb3-48c3-972c-f20e114d86f0" /><img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/f7bbabb0-ff7b-4335-9717-9e70de9452a4" /><img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/f36b7a9d-10dd-47a3-990d-40048ead8a8e" /><img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/ba8bc867-94e9-4073-8ead-6ddfaa264d39" /><img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/2ca679a5-5a14-45a6-ac2e-059c4738bbdb" />
 
 ⚙️ Backend
 
