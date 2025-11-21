@@ -3,7 +3,7 @@
 
 Apasionado por crear soluciones eficientes, escalables y mantenibles. Me enfoco en el aprendizaje continuo, buenas prácticas y arquitectura de software.
 
-Actualmente trabajo mientras curso la Licenciatura en Sistemas en la UNGS, próximo a recibirme de Técnico Superior y continuar hacia la licenciatura completa.
+Actualmente me desempeño como desarrollador mientras curso la Licenciatura en Sistemas en la UNGS, próximo a recibirme de Técnico Superior y continuar hacia la licenciatura completa.
 
 ---
 
